@@ -10,3 +10,11 @@ pip install -r requirements.txt
 ```
 
 2. Replace your Infura project ID in `main.py`.
+
+3. Run the script:
+```bash
+python main.py
+```
+
+## License
+MIT
